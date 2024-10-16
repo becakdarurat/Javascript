@@ -39,4 +39,3 @@ console.log(kota);
 
 
 
-
