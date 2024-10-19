@@ -10,3 +10,12 @@ for ( ; counter <= 5;) {
     counter++;
 }
 console.log(counter);
+
+// Perulangan init dan kondisi
+for (let counterr =1;  counterr <= 10;) {
+    console.log(`Hallo ke :${counterr}`);
+}
+// Perulangan init, kondisi dan poststatement
+for (let count =1; count <= 10; count++) {
+    console.log(`Hallo ke :${count}`);
+}
