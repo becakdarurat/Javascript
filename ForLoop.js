@@ -19,3 +19,4 @@ for (let counterr =1;  counterr <= 10;) {
 for (let count =1; count <= 10; count++) {
     console.log(`Hallo ke :${count}`);
 }
+
